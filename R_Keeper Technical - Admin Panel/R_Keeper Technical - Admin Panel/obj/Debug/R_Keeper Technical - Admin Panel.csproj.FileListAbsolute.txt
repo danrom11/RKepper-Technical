@@ -1,0 +1,29 @@
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\R_Keeper Technical - Admin Panel.exe.config
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\R_Keeper Technical - Admin Panel.exe
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\R_Keeper Technical - Admin Panel.pdb
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper Technical - Admin Panel.csproj.AssemblyReference.cache
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper_Technical___Admin_Panel.Form1.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper_Technical___Admin_Panel.Properties.Resources.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper Technical - Admin Panel.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper Technical - Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper Technical - Admin Panel.exe
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper Technical - Admin Panel.pdb
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\Zstandard.Net.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\System.Buffers.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\System.Memory.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper Technical - Admin Panel.csproj.CopyComplete
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper_Technical___Admin_Panel.FormAddRestaurants.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper_Technical___Admin_Panel.FormAddUser.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper_Technical___Admin_Panel.FormChangeRestaurants.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical - Admin Panel\R_Keeper Technical - Admin Panel\obj\Debug\R_Keeper_Technical___Admin_Panel.FormChangeUser.resources

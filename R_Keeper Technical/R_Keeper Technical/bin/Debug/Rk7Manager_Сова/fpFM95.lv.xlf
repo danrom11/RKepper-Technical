@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:ucslng="http://www.ucs.ru/langer">
+	<file original="rkeeper7.xliff" source-language="en-US" datatype="plaintext" target-language="lv" ucslng:charset="186" ucslng:kbdname="00010426">
+		<body>
+			<trans-unit xml:space="preserve" approved="yes" id="messages__%04__# Room #">
+        <source># Room #</source>
+        <target state="translated"># Istaba #</target>
+      </trans-unit>
+		</body>
+	</file>
+</xliff>

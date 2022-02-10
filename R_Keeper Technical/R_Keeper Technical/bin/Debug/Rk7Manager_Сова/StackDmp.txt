@@ -1,0 +1,1126 @@
+-------------------------------------
+25.05 15:58:31.693 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.ENG
+-------------------------------------
+25.05 15:58:31.719 
+99:Localize: Old format
+-------------------------------------
+25.05 15:58:31.724 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.BAT
+-------------------------------------
+25.05 15:58:33.737 
+99:Localize: TDictList.LoadFilesMask C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.*.xlf
+-------------------------------------
+25.05 15:58:33.742 
+99:Localize: TDictList.LoadFilesMask 29 files found
+-------------------------------------
+25.05 15:58:33.749 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+25.05 15:58:33.774 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:33.781 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+25.05 15:58:33.858 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+25.05 15:58:33.881 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:33.886 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+25.05 15:58:33.995 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+25.05 15:58:34.17 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.21 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+25.05 15:58:34.98 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+25.05 15:58:34.121 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.126 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+25.05 15:58:34.201 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+25.05 15:58:34.222 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.226 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+25.05 15:58:34.294 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+25.05 15:58:34.317 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.322 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+25.05 15:58:34.397 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+25.05 15:58:34.419 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.424 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+25.05 15:58:34.499 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+25.05 15:58:34.522 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.528 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+25.05 15:58:34.605 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+25.05 15:58:34.627 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.633 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+25.05 15:58:34.712 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+25.05 15:58:34.735 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.741 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+25.05 15:58:34.893 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+25.05 15:58:34.914 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:34.918 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+25.05 15:58:34.987 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+25.05 15:58:35.14 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.19 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+25.05 15:58:35.188 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+25.05 15:58:35.211 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.217 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+25.05 15:58:35.328 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+25.05 15:58:35.349 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.354 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+25.05 15:58:35.421 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+25.05 15:58:35.444 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.448 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+25.05 15:58:35.526 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+25.05 15:58:35.550 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.554 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+25.05 15:58:35.635 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+25.05 15:58:35.658 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.663 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+25.05 15:58:35.746 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+25.05 15:58:35.768 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.774 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+25.05 15:58:35.847 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+25.05 15:58:35.868 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.873 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+25.05 15:58:35.942 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+25.05 15:58:35.964 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:35.968 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+25.05 15:58:36.38 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+25.05 15:58:36.62 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.68 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+25.05 15:58:36.142 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+25.05 15:58:36.165 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.170 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+25.05 15:58:36.247 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+25.05 15:58:36.273 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.277 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+25.05 15:58:36.363 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+25.05 15:58:36.385 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.392 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+25.05 15:58:36.468 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+25.05 15:58:36.488 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.494 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+25.05 15:58:36.564 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+25.05 15:58:36.588 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.593 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+25.05 15:58:36.674 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+25.05 15:58:36.696 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.701 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+25.05 15:58:36.789 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+25.05 15:58:36.809 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.814 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+25.05 15:58:36.883 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+-------------------------------------
+25.05 15:58:36.907 
+99:Localize: xml format
+-------------------------------------
+25.05 15:58:36.913 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+thread32 version=163
+-------------------------------------
+27.05 02:17:45.316 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.ENG
+-------------------------------------
+27.05 02:17:45.341 
+99:Localize: Old format
+-------------------------------------
+27.05 02:17:45.348 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.BAT
+-------------------------------------
+27.05 02:17:45.353 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.STK
+-------------------------------------
+27.05 02:17:46.991 
+99:Localize: TDictList.LoadFilesMask C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.*.xlf
+-------------------------------------
+27.05 02:17:47.0 
+99:Localize: TDictList.LoadFilesMask 29 files found
+-------------------------------------
+27.05 02:17:47.6 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+27.05 02:17:47.15 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.21 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+27.05 02:17:47.101 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+27.05 02:17:47.109 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.114 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+27.05 02:17:47.196 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+27.05 02:17:47.202 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.206 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+27.05 02:17:47.281 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+27.05 02:17:47.286 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.291 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+27.05 02:17:47.367 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+27.05 02:17:47.373 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.378 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+27.05 02:17:47.447 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+27.05 02:17:47.453 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.458 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+27.05 02:17:47.533 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+27.05 02:17:47.538 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.542 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+27.05 02:17:47.616 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+27.05 02:17:47.621 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.628 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+27.05 02:17:47.703 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+27.05 02:17:47.711 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.717 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+27.05 02:17:47.791 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+27.05 02:17:47.796 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.803 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+27.05 02:17:47.952 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+27.05 02:17:47.957 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:47.963 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+27.05 02:17:48.36 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+27.05 02:17:48.45 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.52 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+27.05 02:17:48.238 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+27.05 02:17:48.245 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.250 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+27.05 02:17:48.367 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+27.05 02:17:48.374 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.379 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+27.05 02:17:48.451 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+27.05 02:17:48.458 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.463 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+27.05 02:17:48.547 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+27.05 02:17:48.553 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.559 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+27.05 02:17:48.640 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+27.05 02:17:48.645 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.650 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+27.05 02:17:48.730 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+27.05 02:17:48.736 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.741 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+27.05 02:17:48.814 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+27.05 02:17:48.819 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.824 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+27.05 02:17:48.892 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+27.05 02:17:48.898 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.902 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+27.05 02:17:48.971 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+27.05 02:17:48.977 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:48.983 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+27.05 02:17:49.86 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+27.05 02:17:49.97 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.102 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+27.05 02:17:49.191 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+27.05 02:17:49.197 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.204 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+27.05 02:17:49.292 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+27.05 02:17:49.298 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.303 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+27.05 02:17:49.380 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+27.05 02:17:49.385 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.392 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+27.05 02:17:49.458 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+27.05 02:17:49.463 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.470 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+27.05 02:17:49.549 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+27.05 02:17:49.554 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.560 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+27.05 02:17:49.647 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+27.05 02:17:49.654 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.660 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+27.05 02:17:49.731 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+-------------------------------------
+27.05 02:17:49.737 
+99:Localize: xml format
+-------------------------------------
+27.05 02:17:49.741 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+thread32 version=163
+-------------------------------------
+27.05 02:17:50.5 
+99:Localize: active dict changed C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+09.12 23:06:48.311 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.ENG
+-------------------------------------
+09.12 23:06:48.336 
+99:Localize: Old format
+-------------------------------------
+09.12 23:06:48.341 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.BAT
+-------------------------------------
+09.12 23:06:48.348 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.STK
+-------------------------------------
+09.12 23:06:49.788 
+99:Localize: TDictList.LoadFilesMask C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.*.xlf
+-------------------------------------
+09.12 23:06:49.792 
+99:Localize: TDictList.LoadFilesMask 29 files found
+-------------------------------------
+09.12 23:06:49.798 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+09.12 23:06:49.803 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:49.807 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+09.12 23:06:49.881 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+09.12 23:06:49.886 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:49.892 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+09.12 23:06:49.974 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+09.12 23:06:49.978 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:49.984 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+09.12 23:06:50.59 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+09.12 23:06:50.65 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.69 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+09.12 23:06:50.145 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+09.12 23:06:50.149 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.154 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+09.12 23:06:50.222 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+09.12 23:06:50.228 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.232 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+09.12 23:06:50.310 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+09.12 23:06:50.314 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.321 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+09.12 23:06:50.394 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+09.12 23:06:50.400 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.404 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+09.12 23:06:50.480 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+09.12 23:06:50.484 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.489 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+09.12 23:06:50.564 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+09.12 23:06:50.569 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.574 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+09.12 23:06:50.720 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+09.12 23:06:50.725 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.729 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+09.12 23:06:50.795 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+09.12 23:06:50.801 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.806 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+09.12 23:06:50.970 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+09.12 23:06:50.975 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:50.980 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+09.12 23:06:51.91 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+09.12 23:06:51.96 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.101 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+09.12 23:06:51.166 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+09.12 23:06:51.173 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.178 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+09.12 23:06:51.257 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+09.12 23:06:51.262 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.268 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+09.12 23:06:51.347 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+09.12 23:06:51.352 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.358 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+09.12 23:06:51.438 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+09.12 23:06:51.443 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.447 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+09.12 23:06:51.517 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+09.12 23:06:51.522 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.526 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+09.12 23:06:51.592 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+09.12 23:06:51.599 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.605 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+09.12 23:06:51.673 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+09.12 23:06:51.680 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.684 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+09.12 23:06:51.760 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+09.12 23:06:51.764 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.768 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+09.12 23:06:51.845 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+09.12 23:06:51.851 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.856 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+09.12 23:06:51.941 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+09.12 23:06:51.947 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:51.951 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+09.12 23:06:52.27 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+09.12 23:06:52.32 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:52.39 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+09.12 23:06:52.107 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+09.12 23:06:52.111 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:52.115 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+09.12 23:06:52.196 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+09.12 23:06:52.201 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:52.206 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+09.12 23:06:52.296 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+09.12 23:06:52.301 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:52.307 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+09.12 23:06:52.373 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+-------------------------------------
+09.12 23:06:52.378 
+99:Localize: xml format
+-------------------------------------
+09.12 23:06:52.382 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+thread32 version=163
+-------------------------------------
+09.12 23:06:52.655 
+99:Localize: active dict changed C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+23.12 22:23:05.527 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.ENG
+-------------------------------------
+23.12 22:23:05.551 
+99:Localize: Old format
+-------------------------------------
+23.12 22:23:05.557 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.BAT
+-------------------------------------
+23.12 22:23:05.562 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.STK
+-------------------------------------
+23.12 22:23:07.590 
+99:Localize: TDictList.LoadFilesMask C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.*.xlf
+-------------------------------------
+23.12 22:23:07.595 
+99:Localize: TDictList.LoadFilesMask 29 files found
+-------------------------------------
+23.12 22:23:07.601 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+23.12 22:23:07.605 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:07.612 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ar.xlf
+-------------------------------------
+23.12 22:23:07.697 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+23.12 22:23:07.701 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:07.708 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.bg.xlf
+-------------------------------------
+23.12 22:23:07.801 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+23.12 22:23:07.806 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:07.813 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.cs.xlf
+-------------------------------------
+23.12 22:23:07.894 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+23.12 22:23:07.899 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:07.905 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.de.xlf
+-------------------------------------
+23.12 22:23:07.995 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+23.12 22:23:08.0 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.5 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.en.xlf
+-------------------------------------
+23.12 22:23:08.77 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+23.12 22:23:08.83 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.88 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.es.xlf
+-------------------------------------
+23.12 22:23:08.167 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+23.12 22:23:08.174 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.179 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.et.xlf
+-------------------------------------
+23.12 22:23:08.258 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+23.12 22:23:08.266 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.271 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.fr.xlf
+-------------------------------------
+23.12 22:23:08.351 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+23.12 22:23:08.357 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.363 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hu.xlf
+-------------------------------------
+23.12 22:23:08.443 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+23.12 22:23:08.448 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.455 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.hy.xlf
+-------------------------------------
+23.12 22:23:08.612 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+23.12 22:23:08.617 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.622 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.it.xlf
+-------------------------------------
+23.12 22:23:08.695 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+23.12 22:23:08.700 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.707 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ka.xlf
+-------------------------------------
+23.12 22:23:08.883 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+23.12 22:23:08.888 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:08.895 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.km.xlf
+-------------------------------------
+23.12 22:23:09.12 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+23.12 22:23:09.17 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.23 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lo.xlf
+-------------------------------------
+23.12 22:23:09.102 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+23.12 22:23:09.109 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.114 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lt.xlf
+-------------------------------------
+23.12 22:23:09.200 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+23.12 22:23:09.205 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.211 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.lv.xlf
+-------------------------------------
+23.12 22:23:09.295 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+23.12 22:23:09.299 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.306 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mk.xlf
+-------------------------------------
+23.12 22:23:09.395 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+23.12 22:23:09.401 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.406 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.mn.xlf
+-------------------------------------
+23.12 22:23:09.483 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+23.12 22:23:09.488 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.495 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.my.xlf
+-------------------------------------
+23.12 22:23:09.566 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+23.12 22:23:09.573 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.577 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.nl.xlf
+-------------------------------------
+23.12 22:23:09.653 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+23.12 22:23:09.658 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.663 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.pl.xlf
+-------------------------------------
+23.12 22:23:09.742 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+23.12 22:23:09.749 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.753 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ro.xlf
+-------------------------------------
+23.12 22:23:09.835 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+23.12 22:23:09.841 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.846 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+23.12 22:23:09.938 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+23.12 22:23:09.945 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:09.950 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.sr.xlf
+-------------------------------------
+23.12 22:23:10.30 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+23.12 22:23:10.35 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:10.42 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.tr.xlf
+-------------------------------------
+23.12 22:23:10.117 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+23.12 22:23:10.122 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:10.127 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.uk.xlf
+-------------------------------------
+23.12 22:23:10.216 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+23.12 22:23:10.221 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:10.227 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.vi.xlf
+-------------------------------------
+23.12 22:23:10.323 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+23.12 22:23:10.328 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:10.335 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zh.xlf
+-------------------------------------
+23.12 22:23:10.408 
+99:Localize: TDictionary.LoadFromFile C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+-------------------------------------
+23.12 22:23:10.415 
+99:Localize: xml format
+-------------------------------------
+23.12 22:23:10.419 
+99:Localize: TDictionary.LoadFromXML C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.zu.xlf
+thread32 version=163
+-------------------------------------
+23.12 22:23:10.701 
+99:Localize: active dict changed C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf

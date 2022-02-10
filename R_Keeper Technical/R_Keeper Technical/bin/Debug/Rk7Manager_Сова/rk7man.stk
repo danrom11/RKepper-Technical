@@ -1,0 +1,89 @@
+Netkern ver 206 ServerName="POSADMIN-4B7CD264" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-4B7CD264; port=3639; version=227
+-------------------------------------
+25.05 15:58:38 
+5104:*** Manager Station 7.6.2.142 started, ininame = .\rk7man.ini, netname = POSADMIN-4B7CD264 ***
+-------------------------------------
+25.05 15:58:46 
+400:Priority order duplication for item Function Key: Категория заказа(230219) in collection TSelectorDetail
+-------------------------------------
+25.05 15:58:47 
+400:Priority order duplication for item Function Key: ИНН сотрудника(400118) in collection TSelectorDetail
+-------------------------------------
+25.05 15:58:51.611 
+33:Main charset changed from 0 to 204
+-------------------------------------
+25.05 15:58:59 
+143:Task "Main task" worked 2648 milliseconds continually.
+-------------------Start STACK------------------
+00017AA7.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000185A6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001943D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00019995.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000D0F5E.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+000D106C.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+004E969F.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+000C9B56.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+00E9C824.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+25.05 15:58:59.785 
+99:Localize: active dict changed C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\localize\manager7.ru.xlf
+-------------------------------------
+25.05 15:59:04 
+177:TCP Socket: hangup called for ChanelID=000009B4 and CloseMode=0, reason=stop manager task
+Netkern ver 206 ServerName="POSADMIN-20D30591" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-20D30591; port=3639; version=227
+-------------------------------------
+27.05 02:17:51 
+5104:*** Manager Station 7.6.2.142 started, ininame = .\rk7man.ini, netname = POSADMIN-20D30591 ***
+-------------------------------------
+27.05 02:17:59 
+400:Priority order duplication for item Function Key: Категория заказа(230219) in collection TSelectorDetail
+-------------------------------------
+27.05 02:17:59 
+400:Priority order duplication for item Function Key: ИНН сотрудника(400118) in collection TSelectorDetail
+-------------------------------------
+27.05 02:18:04.235 
+33:Main charset changed from 0 to 204
+-------------------------------------
+27.05 02:18:12 
+143:Task "Main task" worked 2703 milliseconds continually.
+-------------------Start STACK------------------
+00017AA7.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000185A6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001943D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00019995.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000D0F5E.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+000D106C.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+004E969F.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+000C9B56.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+00E9C824.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\rk7man.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+27.05 02:20:32 
+177:TCP Socket: hangup called for ChanelID=000009D0 and CloseMode=0, reason=stop manager task
+Netkern ver 206 ServerName="POSADMIN-355A50AC" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-355A50AC; port=3639; version=227
+-------------------------------------
+09.12 23:06:53 
+5104:*** Manager Station 7.6.2.142 started, ininame = .\rk7man.ini, netname = POSADMIN-355A50AC ***
+217:Exception running function REFDOUSERLOGIN on SOVA_RK7SRV: UCSERR(545):Incorect account/password combination or you don't have enough rights to log in the Manager Station.
+-------------------------------------
+09.12 23:07:13 
+177:TCP Socket: hangup called for ChanelID=000009D8 and CloseMode=0, reason=stop manager task
+Netkern ver 206 ServerName="admin-658B913E" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=ADMIN-658B913E; port=3639; version=227
+-------------------------------------
+23.12 22:23:11 
+5104:*** Manager Station 7.6.2.142 started, ininame = .\rk7man.ini, netname = ADMIN-658B913E ***
+217:Exception running function REFDOUSERLOGIN on SOVA_RK7SRV: UCSERR(545):Incorect account/password combination or you don't have enough rights to log in the Manager Station.
+-------------------------------------
+23.12 22:23:23 
+177:TCP Socket: hangup called for ChanelID=00000A18 and CloseMode=0, reason=stop manager task

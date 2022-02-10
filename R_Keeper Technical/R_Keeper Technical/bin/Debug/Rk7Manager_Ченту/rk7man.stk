@@ -1,0 +1,101 @@
+Netkern ver 209 ServerName="POSADMIN-2DBE8A3D" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-2DBE8A3D; port=37388; version=241
+-------------------------------------
+25.05 15:45:11 
+5104:*** Manager Station 7.6.4.458 started, ininame = .\rk7man.ini, netname = POSADMIN-2DBE8A3D ***
+Netkern ver 209 ServerName="POSADMIN-5C7E3120" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-5C7E3120; port=37388; version=241
+-------------------------------------
+25.05 15:45:53 
+5104:*** Manager Station 7.6.4.458 started, ininame = .\rk7man.ini, netname = POSADMIN-5C7E3120 ***
+-------------------------------------
+25.05 15:45:55.904 
+33:LoadReferences started (109 collections)
+-------------------------------------
+25.05 15:46:04.353 
+33:Main charset changed from 0 to 204
+-------------------------------------
+25.05 15:46:06.699 
+33:LoadReferences finished.
+-------------------------------------
+25.05 15:46:06.804 
+33: * AllReferencesLoaded * 
+-------------------------------------
+25.05 15:46:06 
+5102:Static reference property 'PluginConfigType' of class 'Trk7OlapCube' has no record in RefLinks table
+    Windows error =6 (6h). Неверный дескриптор. 
+-------------------------------------
+25.05 15:46:08.370 
+33:initHTTPDaemon, Port: 0
+-------------------------------------
+25.05 15:46:10 
+143:Task "Main task" worked 1844 milliseconds continually.
+-------------------Start STACK------------------
+00019F99.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\THREAD32.DLL
+0001ADCE.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\THREAD32.DLL
+0001B371.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\THREAD32.DLL
+000D14EE.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+000D15FC.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+004FBE5B.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+000C9C5A.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+00EF3ABC.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+25.05 15:46:39 
+177:TCP Socket: hangup called for ChanelID=000009D0 and CloseMode=0, reason=stop manager task
+Netkern ver 209 ServerName="POSADMIN-44DBE87A" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-44DBE87A; port=37388; version=241
+-------------------------------------
+27.05 02:19:50 
+5104:*** Manager Station 7.6.4.458 started, ininame = .\rk7man.ini, netname = POSADMIN-44DBE87A ***
+-------------------------------------
+27.05 02:19:54.308 
+33:LoadReferences started (109 collections)
+-------------------------------------
+27.05 02:20:03.136 
+33:Main charset changed from 0 to 204
+-------------------------------------
+27.05 02:20:05.599 
+33:LoadReferences finished.
+-------------------------------------
+27.05 02:20:05.744 
+33: * AllReferencesLoaded * 
+-------------------------------------
+27.05 02:20:05 
+5102:Static reference property 'PluginConfigType' of class 'Trk7OlapCube' has no record in RefLinks table
+    Windows error =6 (6h). Неверный дескриптор. 
+-------------------------------------
+27.05 02:20:07.240 
+33:initHTTPDaemon, Port: 0
+-------------------------------------
+27.05 02:20:10 
+143:Task "Main task" worked 2008 milliseconds continually.
+-------------------Start STACK------------------
+00019F99.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\THREAD32.DLL
+0001ADCE.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\THREAD32.DLL
+0001B371.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\THREAD32.DLL
+000D14EE.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+000D15FC.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+004FBE5B.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+000C9C5A.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+00EF3ABC.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Ченту\rk7man.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+27.05 02:20:28 
+177:TCP Socket: hangup called for ChanelID=000009D0 and CloseMode=0, reason=stop manager task
+Netkern ver 209 ServerName="POSADMIN-01F437C7" ini=".\rk7man.ini"
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-01F437C7; port=37388; version=241
+-------------------------------------
+09.12 23:06:27 
+5104:*** Manager Station 7.6.4.458 started, ininame = .\rk7man.ini, netname = POSADMIN-01F437C7 ***
+217:Exception running function REFDOUSERLOGIN on REF_CHENTU_KOL: UCSERR(545):Incorect account/password combination or you don't have enough rights to log in the Manager Station.
+217:Exception running function REFDOUSERLOGIN on REF_CHENTU_KOL: UCSERR(545):Incorect account/password combination or you don't have enough rights to log in the Manager Station.
+-------------------------------------
+09.12 23:06:41 
+177:TCP Socket: hangup called for ChanelID=00000A00 and CloseMode=0, reason=stop manager task

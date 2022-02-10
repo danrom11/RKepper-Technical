@@ -1,0 +1,526 @@
+-------------------------------------
+25.05 15:55:52.97 
+33:Rkeeper 7 automatic update 7.6.4.78, Ini file=.\rk7man.ini
+Netkern ver 209 ServerName="POSADMIN-%RANDOM%" ini=".\rk7man.ini"
+thread32 version=169
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-%RANDOM%; port=3639; version=241
+-------------------------------------
+25.05 15:55:53.119 
+33:Init Ok, SelfName=POSADMIN-%RANDOM%
+-------------------------------------
+25.05 15:55:53.603 
+33:442 workmod descriptions received and sorted
+-------------------------------------
+25.05 15:55:54.422 
+33:Module 7z.dll (ModIdent 0) received from server and updated, version 0, CRC 892385278
+-------------------------------------
+25.05 15:55:54.620 
+33:Module AMP6xx.dll (ModIdent 0) received from server and updated, version 2, CRC 309648443
+-------------------------------------
+25.05 15:55:55.418 
+33:Module bldcube.exe (ModIdent 0) received from server and updated, version 11784, CRC 2133991943
+-------------------------------------
+25.05 15:55:56.112 
+33:Module bldcubex.exe (ModIdent 0) received from server and updated, version 12017, CRC -1080267830
+-------------------------------------
+25.05 15:55:56.663 
+33:Module bmpexewebbrowser.exe (ModIdent 1) received from server and updated, version 15, CRC 1646310664
+-------------------------------------
+25.05 15:55:57.817 
+33:Module bmpexewebbrowser.exe (ModIdent 2) received from server and updated, version 1, CRC -1717930090
+-------------------------------------
+25.05 15:55:58.140 
+33:Module bmplibwebbrowser.dll (ModIdent 1) received from server and updated, version 9, CRC 1564108944
+-------------------------------------
+25.05 15:55:58.324 
+33:Module bmplibwebbrowser.dll (ModIdent 2) received from server and updated, version 1, CRC 326634042
+-------------------------------------
+25.05 15:55:58.381 
+33:Module borlndmm.dll (ModIdent 2) received from server and updated, version 1, CRC -337589565
+-------------------------------------
+25.05 15:55:59.385 
+33:Module cef.pak (ModIdent 1) received from server and updated, version 0, CRC -516771566
+-------------------------------------
+25.05 15:55:59.572 
+33:Module cef_100_percent.pak (ModIdent 1) received from server and updated, version 0, CRC -1102593911
+-------------------------------------
+25.05 15:55:59.804 
+33:Module cef_200_percent.pak (ModIdent 1) received from server and updated, version 0, CRC -1488618895
+-------------------------------------
+25.05 15:56:01.568 
+33:Module cef_extensions.pak (ModIdent 1) received from server and updated, version 0, CRC -2120872582
+-------------------------------------
+25.05 15:56:01.618 
+33:Module chips.bin (ModIdent 0) received from server and updated, version 1, CRC -1213057461
+-------------------------------------
+25.05 15:56:04.446 
+33:Module CubeDLL.dll (ModIdent 0) received from server and updated, version 11695, CRC 1632867609
+-------------------------------------
+25.05 15:56:05.475 
+33:Module d3dcompiler_43.dll (ModIdent 1) received from server and updated, version 0, CRC 1375834747
+-------------------------------------
+25.05 15:56:07.240 
+33:Module d3dcompiler_47.dll (ModIdent 1) received from server and updated, version 0, CRC -63543772
+-------------------------------------
+25.05 15:56:08.775 
+33:Module devtools_resources.pak (ModIdent 1) received from server and updated, version 0, CRC 287047198
+-------------------------------------
+25.05 15:56:08.854 
+33:Module dllman.dll (ModIdent 0) received from server and updated, version 18, CRC 1315891538
+-------------------------------------
+25.05 15:56:08.929 
+33:Module ec90dr.dll (ModIdent 0) received from server and updated, version 2, CRC 1142401671
+-------------------------------------
+25.05 15:56:08.980 
+33:Module en-US.pak (ModIdent 1) received from server and updated, version 0, CRC -1955415908
+-------------------------------------
+25.05 15:56:09.65 
+33:Module errors32.dll (ModIdent 0) received from server and updated, version 31, CRC 617304415
+-------------------------------------
+25.05 15:56:09.110 
+33:Module escape.dat (ModIdent 0) received from server and updated, version 11, CRC 1249306140
+-------------------------------------
+25.05 15:56:09.282 
+33:Module fiscalde.dll (ModIdent 0) received from server and updated, version 15000, CRC -1953864536
+-------------------------------------
+25.05 15:56:09.444 
+33:Module FP05.dll (ModIdent 0) received from server and updated, version 10, CRC 1008098864
+-------------------------------------
+25.05 15:56:09.609 
+33:Module FP1000.dll (ModIdent 0) received from server and updated, version 40, CRC 362840175
+-------------------------------------
+25.05 15:56:09.815 
+33:Module FP3530T.dll (ModIdent 0) received from server and updated, version 41, CRC 1399960942
+-------------------------------------
+25.05 15:56:09.956 
+33:Module fp410k.dll (ModIdent 0) received from server and updated, version 19, CRC -376455188
+-------------------------------------
+25.05 15:56:10.134 
+33:Module FP550.dll (ModIdent 0) received from server and updated, version 17, CRC -1064567072
+-------------------------------------
+25.05 15:56:10.284 
+33:Module FP550GG.dll (ModIdent 0) received from server and updated, version 37, CRC 543071307
+-------------------------------------
+25.05 15:56:10.438 
+33:Module FP550T.dll (ModIdent 0) received from server and updated, version 12, CRC -1610084910
+-------------------------------------
+25.05 15:56:10.670 
+33:Module fpAtol54.dll (ModIdent 0) received from server and updated, version 169000, CRC 2020461953
+-------------------------------------
+25.05 15:56:10.940 
+33:Module fpAUftrst.dll (ModIdent 0) received from server and updated, version 17000, CRC -120013538
+-------------------------------------
+25.05 15:56:11.140 
+33:Module fpCrypton.dll (ModIdent 0) received from server and updated, version 11000, CRC -902586382
+-------------------------------------
+25.05 15:56:11.438 
+33:Module fpCZEET.dll (ModIdent 0) received from server and updated, version 9000, CRC -2010432992
+-------------------------------------
+25.05 15:56:11.611 
+33:Module FPDaisy.dll (ModIdent 0) received from server and updated, version 45000, CRC 104374247
+-------------------------------------
+25.05 15:56:11.901 
+33:Module fpFM95.dll (ModIdent 0) received from server and updated, version 32, CRC -1213167269
+-------------------------------------
+25.05 15:56:11.949 
+33:Module fpFM95.lv.xlf (ModIdent 0) received from server and updated, version 2, CRC -771383224
+-------------------------------------
+25.05 15:56:12.231 
+33:Module fpHUN_BBox.dll (ModIdent 0) received from server and updated, version 68000, CRC -121062324
+-------------------------------------
+25.05 15:56:12.496 
+33:Module fpLVA_RASO16FM.dll (ModIdent 0) received from server and updated, version 50000, CRC -1071614259
+-------------------------------------
+25.05 15:56:12.745 
+33:Module fpMercury.dll (ModIdent 0) received from server and updated, version 10000, CRC 1619607575
+-------------------------------------
+25.05 15:56:12.922 
+33:Module fpMNE_VG550.dll (ModIdent 0) received from server and updated, version 20000, CRC -197828898
+-------------------------------------
+25.05 15:56:13.110 
+33:Module fpMStar.dll (ModIdent 0) received from server and updated, version 30000, CRC 252424012
+-------------------------------------
+25.05 15:56:13.288 
+33:Module fpPirit54.dll (ModIdent 0) received from server and updated, version 23000, CRC -1171426812
+-------------------------------------
+25.05 15:56:13.465 
+33:Module FPPiritK.dll (ModIdent 0) received from server and updated, version 13, CRC -1322673046
+-------------------------------------
+25.05 15:56:13.814 
+33:Module fpPort.dll (ModIdent 0) received from server and updated, version 29000, CRC -250771966
+-------------------------------------
+25.05 15:56:14.52 
+33:Module fpRO_Datecs.dll (ModIdent 0) received from server and updated, version 7000, CRC -715444888
+-------------------------------------
+25.05 15:56:14.273 
+33:Module fpRUS_PRIM08F.dll (ModIdent 0) received from server and updated, version 44000, CRC 1498484995
+-------------------------------------
+25.05 15:56:14.581 
+33:Module fpShtr54.dll (ModIdent 0) received from server and updated, version 91000, CRC -1246698428
+-------------------------------------
+25.05 15:56:14.804 
+33:Module fpSkyPrint54F.dll (ModIdent 0) received from server and updated, version 10000, CRC 1436269086
+-------------------------------------
+25.05 15:56:15.110 
+33:Module fpSpark54.dll (ModIdent 0) received from server and updated, version 49000, CRC 844824844
+-------------------------------------
+25.05 15:56:15.298 
+33:Module fpSynergy.dll (ModIdent 0) received from server and updated, version 16000, CRC -350728652
+-------------------------------------
+25.05 15:56:15.348 
+33:Module fpTestBuild.dll (ModIdent 0) received from server and updated, version 44000, CRC -421111944
+-------------------------------------
+25.05 15:56:15.531 
+33:Module fpUKR_IKC.dll (ModIdent 0) received from server and updated, version 8000, CRC 273255580
+-------------------------------------
+25.05 15:56:18.881 
+33:Module FR4Print.dll (ModIdent 0) received from server and updated, version 43, CRC -466641105
+-------------------------------------
+25.05 15:56:18.977 
+33:Module h_reader.dll (ModIdent 0) received from server and updated, version 3, CRC -1294894317
+-------------------------------------
+25.05 15:56:26.98 
+33:Module icudtl.dat (ModIdent 1) received from server and updated, version 0, CRC -611970127
+-------------------------------------
+25.05 15:56:26.485 
+33:Module JadeEko.DLL (ModIdent 1) received from server and updated, version 2, CRC 825122781
+-------------------------------------
+25.05 15:56:26.548 
+33:Module k_99com.dll (ModIdent 0) received from server and updated, version 7, CRC 2079557798
+-------------------------------------
+25.05 15:57:12.601 
+33:Module libcef.dll (ModIdent 1) received from server and updated, version 0, CRC 856301049
+-------------------------------------
+25.05 15:57:12 
+143:Task "Main task" worked 3148 milliseconds continually.
+-------------------Start STACK------------------
+00019F99.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001ADCE.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001B371.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00015ED6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\TCPSOC.dll
+0001F2EC.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\TCPSOC.dll
+00020FB2.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\TCPSOC.dll
+000C24C3.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000C4FF3.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+0003C235.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000BC816.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000900A8.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0010D615.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011B9F1.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011BDAC.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011C03D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011B117.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011D78B.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011E129.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+25.05 15:57:13.690 
+33:Module libeay32.dll (ModIdent 0) received from server and updated, version 2, CRC 558749312
+-------------------------------------
+25.05 15:57:13.768 
+33:Module libEGL.dll (ModIdent 1) received from server and updated, version 0, CRC 967881256
+-------------------------------------
+25.05 15:57:15.320 
+33:Module libGLESv2.dll (ModIdent 1) received from server and updated, version 0, CRC 2130643917
+-------------------------------------
+25.05 15:57:15.776 
+33:Module manager7.ar.xlf (ModIdent 0) received from server and updated, version 5647, CRC 1268186471
+-------------------------------------
+25.05 15:57:16.481 
+33:Module manager7.bg.xlf (ModIdent 0) received from server and updated, version 6140, CRC 1544328622
+-------------------------------------
+25.05 15:57:16.906 
+33:Module manager7.cs.xlf (ModIdent 0) received from server and updated, version 6159, CRC 1050958721
+-------------------------------------
+25.05 15:57:17.286 
+33:Module manager7.de.xlf (ModIdent 0) received from server and updated, version 6157, CRC 849798203
+-------------------------------------
+25.05 15:57:17.598 
+33:Module manager7.en.xlf (ModIdent 0) received from server and updated, version 5337, CRC -1976630103
+-------------------------------------
+25.05 15:57:17.954 
+33:Module manager7.es.xlf (ModIdent 0) received from server and updated, version 6140, CRC -270213684
+-------------------------------------
+25.05 15:57:18.314 
+33:Module manager7.et.xlf (ModIdent 0) received from server and updated, version 6140, CRC -425165722
+-------------------------------------
+25.05 15:57:18.681 
+33:Module manager7.fr.xlf (ModIdent 0) received from server and updated, version 6146, CRC -671596313
+-------------------------------------
+25.05 15:57:19.55 
+33:Module manager7.hu.xlf (ModIdent 0) received from server and updated, version 6140, CRC -1700842937
+-------------------------------------
+25.05 15:57:19.647 
+33:Module manager7.hy.xlf (ModIdent 0) received from server and updated, version 6159, CRC 1209912696
+-------------------------------------
+25.05 15:57:19.936 
+33:Module manager7.it.xlf (ModIdent 0) received from server and updated, version 6140, CRC -1783529984
+-------------------------------------
+25.05 15:57:20.571 
+33:Module manager7.ka.xlf (ModIdent 0) received from server and updated, version 6140, CRC 1567970143
+-------------------------------------
+25.05 15:57:20.921 
+33:Module manager7.km.xlf (ModIdent 0) received from server and updated, version 6140, CRC -1603607074
+-------------------------------------
+25.05 15:57:21.816 
+33:Module manager7.lo.xlf (ModIdent 0) received from server and updated, version 3570, CRC -318101713
+-------------------------------------
+25.05 15:57:22.436 
+33:Module manager7.lt.xlf (ModIdent 0) received from server and updated, version 6140, CRC 1617292921
+-------------------------------------
+25.05 15:57:23.24 
+33:Module manager7.lv.xlf (ModIdent 0) received from server and updated, version 6158, CRC -391109011
+-------------------------------------
+25.05 15:57:23.804 
+33:Module manager7.mk.xlf (ModIdent 0) received from server and updated, version 6158, CRC -1483034956
+-------------------------------------
+25.05 15:57:26.756 
+33:Module manager7.mn.xlf (ModIdent 0) received from server and updated, version 3482, CRC 880312406
+-------------------------------------
+25.05 15:57:27.610 
+33:Module manager7.my.xlf (ModIdent 0) received from server and updated, version 6152, CRC 1686066851
+-------------------------------------
+25.05 15:57:28.402 
+33:Module manager7.nl.xlf (ModIdent 0) received from server and updated, version 6146, CRC 1313110956
+-------------------------------------
+25.05 15:57:29.184 
+33:Module manager7.pl.xlf (ModIdent 0) received from server and updated, version 6140, CRC -560544897
+-------------------------------------
+25.05 15:57:29.858 
+33:Module manager7.ro.xlf (ModIdent 0) received from server and updated, version 3481, CRC -1173323887
+-------------------------------------
+25.05 15:57:30.892 
+33:Module manager7.ru.xlf (ModIdent 0) received from server and updated, version 6166, CRC -358761552
+-------------------------------------
+25.05 15:57:31.661 
+33:Module manager7.sr.xlf (ModIdent 0) received from server and updated, version 6140, CRC -19162834
+-------------------------------------
+25.05 15:57:32.180 
+33:Module manager7.tr.xlf (ModIdent 0) received from server and updated, version 3481, CRC -858994839
+-------------------------------------
+25.05 15:57:32.880 
+33:Module manager7.uk.xlf (ModIdent 0) received from server and updated, version 5654, CRC -18976173
+-------------------------------------
+25.05 15:57:33.373 
+33:Module manager7.vi.xlf (ModIdent 0) received from server and updated, version 6140, CRC 2017715241
+-------------------------------------
+25.05 15:57:33.754 
+33:Module manager7.zh.xlf (ModIdent 0) received from server and updated, version 3482, CRC -1962095484
+-------------------------------------
+25.05 15:57:34.269 
+33:Module manager7.zu.xlf (ModIdent 0) received from server and updated, version 5290, CRC 2003931638
+-------------------------------------
+25.05 15:57:34.410 
+33:Module MC_KBALT.dll (ModIdent 0) received from server and updated, version 4, CRC -589798364
+-------------------------------------
+25.05 15:57:34.662 
+33:Module Moebius.dll (ModIdent 1) received from server and updated, version 27, CRC -327204333
+-------------------------------------
+25.05 15:57:36.550 
+33:Module mpointcv.dll (ModIdent 1) received from server and updated, version 30000, CRC -2146866481
+-------------------------------------
+25.05 15:57:36.818 
+33:Module natives_blob.bin (ModIdent 1) received from server and updated, version 0, CRC 122832849
+-------------------------------------
+25.05 15:57:37.95 
+33:Module Netkern.dll (ModIdent 0) received from server and updated, version 76, CRC 16277474
+-------------------------------------
+25.05 15:57:37.168 
+33:Module NOPR_ALT.dll (ModIdent 0) received from server and updated, version 1, CRC -1652497450
+-------------------------------------
+25.05 15:57:37.217 
+33:Module params.dll (ModIdent 0) received from server and updated, version 2, CRC -1031570342
+-------------------------------------
+25.05 15:57:37.479 
+33:Module PF500.dll (ModIdent 0) received from server and updated, version 13, CRC 710681063
+-------------------------------------
+25.05 15:57:38.492 
+33:Module Preload.exe (ModIdent 0) received from server and updated, version 42, CRC -1610420496
+-------------------------------------
+25.05 15:57:38.595 
+33:Module rabbitmq.dll (ModIdent 0) received from server and updated, version 1000, CRC 1935504638
+-------------------------------------
+25.05 15:57:39.5 
+33:Module rcptcorr.exe (ModIdent 0) received from server and updated, version 9000, CRC -2095748202
+-------------------------------------
+25.05 15:57:39.67 
+33:Module rd900id.dll (ModIdent 0) received from server and updated, version 1, CRC 278034717
+-------------------------------------
+25.05 15:57:57.881 
+33:Module rk7man.exe (ModIdent 0) received from server and updated, version 12306, CRC 1633291525
+-------------------------------------
+25.05 15:57:58.167 
+33:Module snapshot_blob.bin (ModIdent 1) received from server and updated, version 0, CRC 1481471624
+-------------------------------------
+25.05 15:57:58.653 
+33:Module sqlite3.dll (ModIdent 0) received from server and updated, version 0, CRC 1334012955
+-------------------------------------
+25.05 15:57:58.897 
+33:Module ssleay32.dll (ModIdent 0) received from server and updated, version 2, CRC -46947515
+-------------------------------------
+25.05 15:57:59.94 
+33:Module TCPSOC.dll (ModIdent 0) received from server and updated, version 88, CRC -873294108
+-------------------------------------
+25.05 15:58:25.945 
+33:Module TeamViewerQS.exe (ModIdent 0) received from server and updated, version 1, CRC 1386968330
+-------------------------------------
+25.05 15:58:26.45 
+33:Module Thread32.dll (ModIdent 1) received from server and updated, version 178, CRC 2578561
+-------------------------------------
+25.05 15:58:26.205 
+33:Module UFRTesting.dll (ModIdent 0) received from server and updated, version 48000, CRC 2130616658
+-------------------------------------
+25.05 15:58:26.417 
+33:Module VG550.dll (ModIdent 0) received from server and updated, version 1, CRC 1148591897
+-------------------------------------
+25.05 15:58:26.781 
+33:Module vx510.dll (ModIdent 1) received from server and updated, version 148, CRC -1107141154
+-------------------------------------
+25.05 15:58:26.928 
+33:Module widevinecdmadapter.dll (ModIdent 1) received from server and updated, version 0, CRC -214761695
+-------------------------------------
+25.05 15:58:26.996 
+33:Module wow_helper.exe (ModIdent 1) received from server and updated, version 0, CRC -1476249452
+-------------------------------------
+25.05 15:58:27.4 
+33:Need process 116 work modules
+-------------------------------------
+25.05 15:58:27.4 
+33:Check CRC32 for 116 modules
+-------------------------------------
+25.05 15:58:30.423 
+33:Process complete.
+-------------------------------------
+25.05 15:58:30 
+143:Task "Main task" worked 3292 milliseconds continually.
+-------------------Start STACK------------------
+00019F99.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001ADCE.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001B371.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00033DE2.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+00033EF0.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000C86DD.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+0011D836.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+0011E129.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+Netkern ver 206 ServerName="POSADMIN-%RANDOM%" ini=".\rk7man.ini"
+thread32 version=163
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-%RANDOM%; port=3639; version=227
+-------------------------------------
+27.05 02:17:37.57 
+33:442 description received and sorted
+-------------------------------------
+27.05 02:17:43.759 
+33:Need process 0 modules
+-------------------------------------
+27.05 02:17:43 
+143:Task "Main task" worked 3859 milliseconds continually.
+-------------------Start STACK------------------
+00017AA7.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000185A6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001943D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00019995.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0002D842.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+0002D950.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+00045FC6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000F641E.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+000F6C4D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+27.05 02:17:43 
+177:TCP Socket: hangup called for ChanelID=000002BC and CloseMode=1, reason=external disconnect
+Netkern ver 206 ServerName="POSADMIN-%RANDOM%" ini=".\rk7man.ini"
+thread32 version=163
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-%RANDOM%; port=3639; version=227
+-------------------------------------
+09.12 23:05:30 
+280:Program must be started with ADMINISTRATOR rights (Error 5 on CreateFileMapping)
+    Windows error =5 (5h). Отказано в доступе. 
+-------------------------------------
+09.12 23:05:30.694 
+33:442 description received and sorted
+-------------------------------------
+09.12 23:05:35 
+177:TCP Socket: hangup called for ChanelID=000002DC and CloseMode=1, reason=external disconnect
+    Windows error =10091 (276Bh). WSAStartup не может выполняться в данное время, т.к. недоступна основная система, используемая для работы сетевых служб . 
+Netkern ver 206 ServerName="POSADMIN-%RANDOM%" ini=".\rk7man.ini"
+thread32 version=163
+TCP Socket: ini=.\rk7man.ini; name=POSADMIN-%RANDOM%; port=3639; version=227
+-------------------------------------
+09.12 23:06:43.902 
+33:442 description received and sorted
+-------------------------------------
+09.12 23:06:47.5 
+33:Need process 0 modules
+-------------------------------------
+09.12 23:06:47 
+143:Task "Main task" worked 2062 milliseconds continually.
+-------------------Start STACK------------------
+00017AA7.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000185A6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001943D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00019995.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0002D842.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+0002D950.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+00045FC6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000F641E.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+000F6C4D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+09.12 23:06:47 
+177:TCP Socket: hangup called for ChanelID=000002F8 and CloseMode=1, reason=external disconnect
+Netkern ver 206 ServerName="admin-%RANDOM%" ini=".\rk7man.ini"
+thread32 version=163
+TCP Socket: ini=.\rk7man.ini; name=ADMIN-%RANDOM%; port=3639; version=227
+-------------------------------------
+23.12 22:22:36 
+280:Program must be started with ADMINISTRATOR rights (Error 5 on CreateFileMapping)
+    Windows error =5 (5h). Отказано в доступе. 
+-------------------------------------
+23.12 22:22:36.807 
+33:442 description received and sorted
+-------------------------------------
+23.12 22:22:38 
+177:TCP Socket: hangup called for ChanelID=000002BC and CloseMode=1, reason=external disconnect
+    Windows error =10091 (276Bh). WSAStartup не может выполняться в данное время, т.к. недоступна основная система, используемая для работы сетевых служб . 
+Netkern ver 206 ServerName="admin-%RANDOM%" ini=".\rk7man.ini"
+thread32 version=163
+TCP Socket: ini=.\rk7man.ini; name=ADMIN-%RANDOM%; port=3639; version=227
+-------------------------------------
+23.12 22:22:59.442 
+33:442 description received and sorted
+-------------------------------------
+23.12 22:23:04.203 
+33:Need process 0 modules
+-------------------------------------
+23.12 22:23:04 
+143:Task "Main task" worked 2890 milliseconds continually.
+-------------------Start STACK------------------
+00017AA7.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+000185A6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0001943D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+00019995.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\THREAD32.DLL
+0002D842.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+0002D950.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+00045FC6.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\netkern.dll
+000F641E.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+000F6C4D.C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Rk7Manager_Сова\Preload.exe
+00016359.C:\WINDOWS\System32\KERNEL32.DLL
+000687A4.C:\WINDOWS\SYSTEM32\ntdll.dll
+00068774.C:\WINDOWS\SYSTEM32\ntdll.dll
+-------------------END STACK------------------
+-------------------------------------
+23.12 22:23:04 
+177:TCP Socket: hangup called for ChanelID=00000304 and CloseMode=1, reason=external disconnect

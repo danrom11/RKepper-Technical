@@ -1,0 +1,26 @@
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper_Technical.Form1.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper_Technical.Main.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper_Technical.Properties.Resources.resources
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper Technical.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper Technical.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\MySql.Data.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Google.Protobuf.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Zstandard.Net.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\Renci.SshNet.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\System.Buffers.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\System.Memory.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\MySql.Data.xml
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper Technical.csproj.CopyComplete
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\R-Keeper Technical.exe.config
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\R-Keeper Technical.exe
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\bin\Debug\R-Keeper Technical.pdb
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R-Keeper Technical.exe
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R-Keeper Technical.pdb
+C:\Users\Даниил\source\repos\R_Keeper Technical\R_Keeper Technical\obj\Debug\R_Keeper Technical.csproj.AssemblyReference.cache
